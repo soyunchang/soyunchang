@@ -6,12 +6,12 @@ subtitle: <a href='https://polisci.osu.edu/people/chang.2318'>Affiliations</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Chang_SoYun.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>2081 Derby Hall</p>
+    <p>154 North Oval Mall</p>
+    <p>Columbus, OH, 43210</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I am a Ph.D. student in the Department of Political Science at the Ohio State University. My research focuses on international organizations, reform, international law, compliance, and health politics. In particular, I examine how scholars should conceptualize and measure institutional reform. I employ a diverse methodological toolkit, including experiments, statistical methods, and machine learning. I am also interested how concepts are developed and measured into different proxies. # Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome! I am a Ph.D. student in the Department of Political Science at the Ohio State University. My research focuses on international organizations, institutional reform, international law, compliance, and health/climate politics. In particular, I examine how scholars should conceptualize and measure institutional reform across international organizations. I employ a diverse methodological toolkit, including experiments, statistical methods, and machine learning. I am also interested how concepts are developed, measured, and adopted into research design. # Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Before Ohio State, I completed my B.A. in International Studies and History at Boston College and my M.A. in Political Science and International Relations at Seoul National University. 
 
