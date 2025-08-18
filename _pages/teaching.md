@@ -2,11 +2,22 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**The United Nations System (Undergraduate), Fall 2024 & Fall 2025, The Ohio State University**
+Teaching Assistant
 
-Organize your courses by years, topics, or universities, however you like!
+**International Politics in the Korean Peninsula, Winter 2021 & Winter 2022, Seoul National University (on edX)**
+Teaching Assistant
+
+**Politicsl of Terrorism and Counter-terrorism, Fall 2022, Seoul National University**
+Teaching Assistant 
+
+**America in World Politics, Spring 2022, Seoul National University**
+Teaching Assistant
+
+**Comparative Federalism and Federation, Fall 2021, Seoul National University**
+Teaching Assistant
