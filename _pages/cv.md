@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
+cv_pdf: (https://www.dropbox.com/scl/fi/qhmifl0lly7cn0omjkmae/Chang_CV.pdf?rlkey=0owf5j9ve6jmxdajq32phc5oj&st=35n1ejev&dl=0) # you can also use external links here
 description: Please find my CV available here.
 toc:
   sidebar: left
