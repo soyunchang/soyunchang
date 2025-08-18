@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:<a href="mailto:chang.2318@osu.edu">chang.2318@osu.edu</a>,  <a href='https://polisci.osu.edu/people/chang.2318'>The Ohio State University</a>
+subtitle:<a href="mailto:chang.2318@osu.edu">chang.2318@osu.edu</a>, <a href='https://polisci.osu.edu/people/chang.2318'>The Ohio State University</a>
 
 profile:
   align: right
