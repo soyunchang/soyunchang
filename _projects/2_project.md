@@ -5,7 +5,7 @@ description:
 img: assets/img/3.jpg
 importance: 1
 category: work
-giscus_comments: true
+related_publications: true
 ---
 
 **Working Title:** _Blame Games and Disease Outbreaks:_ Narrative of Blame and the World Health Organization's Mandate to Report 
