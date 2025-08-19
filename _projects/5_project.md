@@ -9,14 +9,13 @@ category: fun
 
 Below are projects that are in-preparation: 
 
-<div style="font-size:0.95em; margin-left:1.25rem; margin-top:0.25rem;">
-Talk Reform to Me - Detecting Reform Talks in UN General Debate Text Corpus
-</div>
+<p>Below are projects that are in-preparation:</p>
 
-<div style="font-size:0.95em; margin-left:1.25rem; margin-top:0.25rem;">
-International Organizations' Bureaucrats and Connectivity with Headquarters
-</div>
+<ol style="font-size:0.95em; margin-left:1.25rem; margin-top:0.25rem;">
+  <li><b>Talk Reform to Me</b> - Detecting Reform Talks in UN General Debate Text Corpus</li>
+  
+  <li><b>International Organizations' Bureaucrats</b> and Connectivity with Headquarters</li>
+  
+  <li><b>Tick Tock, goes the clock?</b> Organizational Reform and Temporal Experiences of IO Elites</li>
+</ol>
 
-<div style="font-size:0.95em; margin-left:1.25rem; margin-top:0.25rem;">
-Tick Tock, goes the clock? Organizational Reform and Temporal Experiences of IO Elites
-</div>
