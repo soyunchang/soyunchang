@@ -18,3 +18,4 @@ Welcome! I am a Ph.D. student in the Department of Political Science at the Ohio
 
 Before Ohio State, I completed my B.A. in International Studies and History at Boston College and my M.A. in Political Science and International Relations at Seoul National University. 
 
+Please feel free to contact me via email <a href="mailto:chang.2318@osu.edu">chang.2318@osu.edu</a>!
