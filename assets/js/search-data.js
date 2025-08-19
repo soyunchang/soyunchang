@@ -11,14 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "Please find my CV available **here**.",
+          description: "Please find my CV available  here .",
           section: "Navigation",
           handler: () => {
             window.location.href = "/soyunchang/cv/";
           },
         },{id: "nav-research",
           title: "research",
-          description: "A growing collection of your cool projects.",
+          description: "See below for working papers, work-in-progress, and in preparation research projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/soyunchang/projects/";
