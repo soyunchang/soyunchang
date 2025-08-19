@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: See below for working papers, work-in-progress, and in preparation research projects.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
