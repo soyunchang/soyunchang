@@ -4,7 +4,7 @@ title: In Preparation
 description: 
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: in preparation
 ---
 <p>Below are projects that are in-preparation:</p>
 
