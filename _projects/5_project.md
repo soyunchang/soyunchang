@@ -11,7 +11,7 @@ category: fun
 <ol style="font-size:0.95em; margin-left:1.25rem; margin-top:0.25rem;">
   <li><b>Talk Reform to Me</b> - Detecting Reform Talks in UN General Debate Text Corpus</li>
   
-  <li><b>International Organizations' Bureaucrats and Connectivity with Headquarters</li>
+  <li><b>International Organizations' Bureaucrats and Connectivity with Headquarters</b></li>
   
   <li><b>Tick Tock, goes the clock?</b> Organizational Reform and Temporal Experiences of IO Elites</li>
 </ol>
