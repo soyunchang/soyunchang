@@ -4,7 +4,7 @@ title: Blame Games and Disease Outbreaks
 description: 
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: working papers
 related_publications: true
 ---
 
