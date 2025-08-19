@@ -418,7 +418,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-in-international-organizations-we-trust",
           title: 'In International Organizations We Trust?',
-          description: "Explaining Public Support of WHO Policy Recommendations",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/soyunchang/projects/1_project/";
             },},{id: "projects-project-2",
