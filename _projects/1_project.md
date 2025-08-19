@@ -4,7 +4,7 @@ title: In International Organizations We Trust?
 description: 
 img: assets/img/12.jpg
 importance: 1
-category: 
+category: working papers
 related_publications: true
 ---
 
