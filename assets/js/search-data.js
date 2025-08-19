@@ -421,8 +421,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/soyunchang/projects/1_project/";
-            },},{id: "projects-",
-          title: '',
+            },},{id: "projects-blame-games-and-disease-outbreaks",
+          title: 'Blame Games and Disease Outbreaks',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/soyunchang/projects/2_project/";
