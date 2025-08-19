@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Blame Games and Disease Outbreaks: Narratives of Blame and the World
-Health Organization’s Mandate to Report
+title: Blame Games and Disease Outbreaks
 description: 
 img: assets/img/3.jpg
 importance: 1
