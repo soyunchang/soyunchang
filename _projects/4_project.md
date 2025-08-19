@@ -4,7 +4,7 @@ title: Contact and Inequality
 description: 
 img: assets/img/contact.jpg
 importance: 4
-category: work
+category: working papers
 ---
 
 **Working Title:** Contact and Inequality - Rethinking Group Separation (with <a href="https://www.paigebollen.com/">Paige Bollen</a>)
