@@ -4,7 +4,7 @@ title: The Severity of Natural Disasters
 description: 
 img: assets/img/7.jpg
 importance: 3
-category: work
+category: working papers
 ---
 
 **Working Title:** The Severity of Natural Disasters: A Key Determinant of the Pendulum between
