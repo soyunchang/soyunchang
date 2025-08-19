@@ -3,7 +3,7 @@ layout: page
 title: Contact and Inequality 
 description: 
 img: assets/img/contact.jpg
-importance: 3
+importance: 4
 category: work
 ---
 
