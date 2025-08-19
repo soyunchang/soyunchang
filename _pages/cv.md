@@ -9,5 +9,5 @@ description:
 ---
 
 Please find my CV available <a href="https://www.dropbox.com/scl/fi/qhmifl0lly7cn0omjkmae/Chang_CV.pdf?dl=0">
-    <strong>here</strong>
+    here
   </a>.
