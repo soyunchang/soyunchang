@@ -13,7 +13,7 @@ Teaching Assistant
 **International Politics in the Korean Peninsula (Undergraduate), Winter 2021 & Winter 2022, Seoul National University (on <a href="https://www.edx.org/"> edX</a>)**  
 Teaching Assistant
 
-**Politicsl of Terrorism and Counter-terrorism (Undergraduate), Fall 2022, Seoul National University**  
+**Politics of Terrorism and Counter-terrorism (Undergraduate), Fall 2022, Seoul National University**  
 Teaching Assistant 
 
 **America in World Politics (Undergraduate), Spring 2022, Seoul National University**  
