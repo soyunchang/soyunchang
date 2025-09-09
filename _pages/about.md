@@ -6,7 +6,7 @@ subtitle: <a href="mailto:chang.2318@osu.edu">chang.2318@osu.edu</a>, <a href="h
 
 profile:
   align: right
-  image: Chang_SoYun2.png
+  image: Chang_SoYun2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>2081 Derby Hall</p>
