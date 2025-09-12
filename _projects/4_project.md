@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact and Inequality 
+title: Varieties of Segregation
 description: 
 img: assets/img/contact.jpg
 importance: 4
