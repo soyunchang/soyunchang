@@ -431,8 +431,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/soyunchang/projects/3_project/";
-            },},{id: "projects-contact-and-inequality",
-          title: 'Contact and Inequality',
+            },},{id: "projects-varieties-of-segregation",
+          title: 'Varieties of Segregation',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/soyunchang/projects/4_project/";
