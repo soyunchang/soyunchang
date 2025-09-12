@@ -13,10 +13,10 @@ related_publications: true
 _Revise & Resubmit_
 
 <div style="font-size:0.95em; margin-left:1.25rem; margin-top:0.25rem;">
-Francis R. Aumann Award for Best Paper Presented at Conference, The Ohio State University, 2024 
-  
-Francis R. Aumann Award for Best Seminar Paper, The Ohio State University, 2025
+  Francis R. Aumann Award for Best Paper Presented at Conference, The Ohio State University, 2024 <br>
+  Francis R. Aumann Award for Best Seminar Paper, The Ohio State University, 2025
 </div>
+
 
 <br>
 
