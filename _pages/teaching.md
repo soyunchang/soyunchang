@@ -4,8 +4,11 @@ permalink: /teaching/
 title: teaching
 description: 
 nav: true
-nav_order: 4
+nav_order: 5
 ---
+
+**Data Literacy and Data Visualization (Undergraduate), Spring 2025, The Ohio State University**  
+Teaching Assistant
 
 **The United Nations System (Undergraduate), Fall 2024 & Fall 2025, The Ohio State University**  
 Teaching Assistant
