@@ -431,6 +431,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/soyunchang/projects/3_project/";
+            },},{id: "projects-obstruction-or-reform-assessing-the-role-of-the-united-state-in-climate-negotiations",
+          title: 'Obstruction or Reform? Assessing the Role of the United State in Climate Negotiations...',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/soyunchang/projects/4_project/";
             },},{id: "projects-in-preparation",
           title: 'In Preparation',
           description: "",
