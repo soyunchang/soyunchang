@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/soyunchang/cv/";
           },
+        },{id: "nav-dissertation",
+          title: "dissertation",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/soyunchang/dissertation/";
+          },
         },{id: "nav-research",
           title: "research",
           description: "See below for working papers, work-in-progress, and in preparation research projects.",
