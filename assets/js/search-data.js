@@ -431,11 +431,6 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/soyunchang/projects/3_project/";
-            },},{id: "projects-varieties-of-segregation",
-          title: 'Varieties of Segregation',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/soyunchang/projects/4_project/";
             },},{id: "projects-in-preparation",
           title: 'In Preparation',
           description: "",
