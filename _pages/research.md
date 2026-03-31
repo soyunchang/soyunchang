@@ -4,7 +4,7 @@ title: research
 permalink: /projects/
 description: See below for working papers, work-in-progress, and in preparation research projects.
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [working papers, in preparation]
 horizontal: false
 ---
