@@ -3,7 +3,7 @@ layout: page
 title: The Severity of Natural Disasters
 description: 
 img: assets/img/7.jpg
-importance: 4
+importance: 3
 category: working papers
 ---
 
