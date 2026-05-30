@@ -11,3 +11,10 @@ description:
 Please find my CV available <a href="https://www.dropbox.com/scl/fi/aoq0my6yzg5nwb0gu6g6r/Chang_AcademicCV.pdf?rlkey=unum3hnjh9m5k4rtoz5qk6cjf&dl=0">
     here
   </a>.
+
+<iframe
+  src="https://www.dropbox.com/scl/fi/aoq0my6yzg5nwb0gu6g6r/Chang_AcademicCV.pdf?rlkey=unum3hnjh9m5k4rtoz5qk6cjf&dl=1"
+  width="100%"
+  height="700px"
+  style="border:none;">
+</iframe>
