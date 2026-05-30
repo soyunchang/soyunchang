@@ -3,7 +3,7 @@ layout: page
 title: Obstruction or Reform? Assessing the Role of the United State in Climate Negotiations
 description: 
 img: assets/img/13.jpg
-importance: 3
+importance: 2
 category: working papers
 related_publications: true
 ---
