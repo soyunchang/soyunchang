@@ -7,6 +7,14 @@ nav: true
 nav_order: 4
 ---
 
+**Chang, S.** (2026). <a href="https://doi.org/10.1093/isp/ekag006">
+  <cite>Blame Games and Disease Outbreaks: Narratives of Blame and the World Health Organization's Mandate to Report</cite>
+</a>. International Studies Perspectives, ekag006, https://doi.org/10.1093/isp/ekag006.
+
+<div style="font-size:0.95em; margin-left:1.25rem; margin-top:0.25rem;">
+Despite widespread participation in the International Health Regulations (2005) and coordinated efforts by various stakeholders to increase surveillance capacities of states, why do some states continue to delay reporting novel disease outbreaks to the World Health Organization? I argue that the target of disease blame attribution by the domestic public of the reporting state matters. When a state perceives the likely target of disease blaming by the public to be externally facing towards the “other,” namely foreign nationals, they will be more likely to report a disease outbreak. However, this effect is conditional on whether there is internal domestic opposition within the incumbent government. I argue that presence of domestic opposition affects the persuasiveness of the “other” blaming. I analyze data from the World Health Organization’s Disease Outbreak News reports to identify how the size of a foreign population within a state increases the rate of reporting. But, when there are internal divisions within the incumbent government, the size of a foreign population within a state decreases the rate of reporting. The findings highlight that, beyond legal obligations under international treaties and improvements in surveillance capacity, domestic blame attribution dynamics significantly impact global health coordination efforts.</div>
+
+
 **Chang, S.**, Ives, B., & Oh, J. (2025).<a href="https://www.sciencedirect.com/science/article/pii/S2352827325000965">
   <cite>When conflict meets political exclusion: Ethnicity, governance, and child mortality</cite>
 </a>.  SSM-Population Health, 101842.
