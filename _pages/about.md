@@ -18,7 +18,7 @@ Welcome! I am a Ph.D. candidate in the Department of Political Science at the Oh
 
 My research focuses on international organizations, institutional reform, international law, compliance, and global governance (with a special interest in health/climate politics). For my dissertation, I examine how scholars conceptualize and measure institutional reform across international organizations, and whether a particular conceptualization (1) masks variation across institutional reforms, (2) has implications for the understanding of rational design and the greater Liberal International Order (LIO). I argue that extant literature has unintentionally masked variation in institutional reform. My dissertation proposes a theoretical framework, typologizing different types of reform, through examining the scope and substantive content of the reform. I employ a diverse methodological toolkit, including experiments, statistical methods, text analysis, and machine learning. Relatedly, I am also interested how concepts are developed, measured, and adopted into research design. 
 
-My research is published in journals including _International Studies Perspectives_ and _Population Health._ 
+My research is published in journals including _International Studies Perspectives_ and _SSM - Population Health._ 
 
 Before Ohio State, I completed my B.A. in International Studies and History at Boston College and my M.A. in Political Science and International Relations at Seoul National University. Please see this website for more information about my work in progress, CV, publications, etc.
 
