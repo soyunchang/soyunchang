@@ -7,10 +7,10 @@ nav: true
 nav_order: 5
 ---
 
-**Data Literacy and Data Visualization (Undergraduate), Spring 2025, The Ohio State University**  
+**The United Nations System (Undergraduate), Fall 2026, 2025 & 2024, The Ohio State University**  
 Teaching Assistant
 
-**The United Nations System (Undergraduate), Fall 2024 & Fall 2025, The Ohio State University**  
+**Data Literacy and Data Visualization (Undergraduate), Spring 2025, The Ohio State University**  
 Teaching Assistant
 
 **International Politics in the Korean Peninsula (Undergraduate), Winter 2021 & Winter 2022, Seoul National University (on <a href="https://www.edx.org/"> edX</a>)**  
